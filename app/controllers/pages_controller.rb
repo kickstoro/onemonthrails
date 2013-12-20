@@ -5,4 +5,6 @@ class PagesController < ApplicationController
   end
   def Contactus
   end
+  def services
+  end
 end
